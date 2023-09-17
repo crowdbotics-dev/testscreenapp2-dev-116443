@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
   iSLQruos: {
     height: 60,
     width: 140,
-    backgroundColor: "#E4E4E4",
+    backgroundColor: "#822626",
     borderRadius: 0,
     color: "#777777"
   }
