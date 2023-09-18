@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
   WVjYRwFR: {
     height: 60,
     width: 140,
-    backgroundColor: "#E4E4E4",
+    backgroundColor: "#3982b9",
     borderRadius: 0,
     color: "#777777"
   }
